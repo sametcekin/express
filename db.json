@@ -1,0 +1,662 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "categoryId": 5,
+            "productName": "Ecolab Digiclean Mild Fm",
+            "quantityPerUnit": "Electronic Components",
+            "unitPrice": 99,
+            "unitInStock": 38
+        },
+        {
+            "id": 2,
+            "categoryId": 1,
+            "productName": "Vermouth - Sweet, Cinzano",
+            "quantityPerUnit": "Marine Transportation",
+            "unitPrice": 26,
+            "unitInStock": 99
+        },
+        {
+            "id": 3,
+            "categoryId": 8,
+            "productName": "Clams - Canned",
+            "quantityPerUnit": "Multi-Sector Companies",
+            "unitPrice": 79,
+            "unitInStock": 38
+        },
+        {
+            "id": 4,
+            "categoryId": 4,
+            "productName": "Chickensplit Half",
+            "quantityPerUnit": "Television Services",
+            "unitPrice": 15,
+            "unitInStock": 93
+        },
+        {
+            "id": 5,
+            "categoryId": 6,
+            "productName": "Bread - Rosemary Focaccia",
+            "quantityPerUnit": "Major Banks",
+            "unitPrice": 59,
+            "unitInStock": 80
+        },
+        {
+            "id": 6,
+            "categoryId": 10,
+            "productName": "Muffin - Mix - Mango Sour Cherry",
+            "quantityPerUnit": "n/a",
+            "unitPrice": 54,
+            "unitInStock": 13
+        },
+        {
+            "id": 7,
+            "categoryId": 1,
+            "productName": "Chips Potato All Dressed - 43g",
+            "quantityPerUnit": "Major Banks",
+            "unitPrice": 48,
+            "unitInStock": 66
+        },
+        {
+            "id": 8,
+            "categoryId": 4,
+            "productName": "Veal - Inside Round / Top, Lean",
+            "quantityPerUnit": "n/a",
+            "unitPrice": 44,
+            "unitInStock": 59
+        },
+        {
+            "id": 9,
+            "categoryId": 3,
+            "productName": "Chocolate - Dark",
+            "quantityPerUnit": "n/a",
+            "unitPrice": 28,
+            "unitInStock": 24
+        },
+        {
+            "id": 10,
+            "categoryId": 1,
+            "productName": "Turnip - Mini",
+            "quantityPerUnit": "Advertising",
+            "unitPrice": 84,
+            "unitInStock": 60
+        },
+        {
+            "id": 11,
+            "categoryId": 3,
+            "productName": "Bacardi Breezer - Strawberry",
+            "quantityPerUnit": "Textiles",
+            "unitPrice": 94,
+            "unitInStock": 95
+        },
+        {
+            "id": 12,
+            "categoryId": 4,
+            "productName": "Lid - High Heat, Super Clear",
+            "quantityPerUnit": "Hotels/Resorts",
+            "unitPrice": 18,
+            "unitInStock": 27
+        },
+        {
+            "id": 13,
+            "categoryId": 1,
+            "productName": "Fondant - Icing",
+            "quantityPerUnit": "Professional Services",
+            "unitPrice": 78,
+            "unitInStock": 86
+        },
+        {
+            "id": 14,
+            "categoryId": 7,
+            "productName": "Chinese Foods - Plain Fried Rice",
+            "quantityPerUnit": "Property-Casualty Insurers",
+            "unitPrice": 46,
+            "unitInStock": 68
+        },
+        {
+            "id": 15,
+            "categoryId": 1,
+            "productName": "Calvados - Boulard",
+            "quantityPerUnit": "Auto Parts:O.E.M.",
+            "unitPrice": 25,
+            "unitInStock": 15
+        },
+        {
+            "id": 16,
+            "categoryId": 8,
+            "productName": "Foam Dinner Plate",
+            "quantityPerUnit": "Telecommunications Equipment",
+            "unitPrice": 42,
+            "unitInStock": 42
+        },
+        {
+            "id": 17,
+            "categoryId": 7,
+            "productName": "Cocoa Butter",
+            "quantityPerUnit": "Computer Software: Prepackaged Software",
+            "unitPrice": 67,
+            "unitInStock": 47
+        },
+        {
+            "id": 18,
+            "categoryId": 10,
+            "productName": "Island Oasis - Pina Colada",
+            "quantityPerUnit": "Biotechnology: Biological Products (No Diagnostic Substances)",
+            "unitPrice": 58,
+            "unitInStock": 26
+        },
+        {
+            "id": 19,
+            "categoryId": 1,
+            "productName": "Seedlings - Mix, Organic",
+            "quantityPerUnit": "n/a",
+            "unitPrice": 100,
+            "unitInStock": 6
+        },
+        {
+            "id": 20,
+            "categoryId": 6,
+            "productName": "Langers - Mango Nectar",
+            "quantityPerUnit": "n/a",
+            "unitPrice": 22,
+            "unitInStock": 87
+        },
+        {
+            "id": 21,
+            "categoryId": 10,
+            "productName": "Bread - Bagels, Plain",
+            "quantityPerUnit": "n/a",
+            "unitPrice": 23,
+            "unitInStock": 96
+        },
+        {
+            "id": 22,
+            "categoryId": 3,
+            "productName": "Cherries - Fresh",
+            "quantityPerUnit": "n/a",
+            "unitPrice": 14,
+            "unitInStock": 29
+        },
+        {
+            "id": 23,
+            "categoryId": 8,
+            "productName": "Lotus Rootlets - Canned",
+            "quantityPerUnit": "Oil Refining/Marketing",
+            "unitPrice": 7,
+            "unitInStock": 9
+        },
+        {
+            "id": 24,
+            "categoryId": 2,
+            "productName": "Soap - Mr.clean Floor Soap",
+            "quantityPerUnit": "Major Chemicals",
+            "unitPrice": 87,
+            "unitInStock": 50
+        },
+        {
+            "id": 25,
+            "categoryId": 5,
+            "productName": "Glaze - Clear",
+            "quantityPerUnit": "n/a",
+            "unitPrice": 20,
+            "unitInStock": 83
+        },
+        {
+            "id": 26,
+            "categoryId": 5,
+            "productName": "Salt And Pepper Mix - White",
+            "quantityPerUnit": "Industrial Machinery/Components",
+            "unitPrice": 45,
+            "unitInStock": 10
+        },
+        {
+            "id": 27,
+            "categoryId": 1,
+            "productName": "Eggwhite Frozen",
+            "quantityPerUnit": "Major Pharmaceuticals",
+            "unitPrice": 30,
+            "unitInStock": 54
+        },
+        {
+            "id": 28,
+            "categoryId": 6,
+            "productName": "Pectin",
+            "quantityPerUnit": "Finance: Consumer Services",
+            "unitPrice": 1,
+            "unitInStock": 25
+        },
+        {
+            "id": 29,
+            "categoryId": 2,
+            "productName": "Sloe Gin - Mcguinness",
+            "quantityPerUnit": "RETAIL: Building Materials",
+            "unitPrice": 85,
+            "unitInStock": 5
+        },
+        {
+            "id": 30,
+            "categoryId": 7,
+            "productName": "Creamers - 10%",
+            "quantityPerUnit": "n/a",
+            "unitPrice": 60,
+            "unitInStock": 9
+        },
+        {
+            "id": 31,
+            "categoryId": 6,
+            "productName": "Bar Mix - Lime",
+            "quantityPerUnit": "n/a",
+            "unitPrice": 80,
+            "unitInStock": 47
+        },
+        {
+            "id": 32,
+            "categoryId": 5,
+            "productName": "Bread - Sticks, Thin, Plain",
+            "quantityPerUnit": "Property-Casualty Insurers",
+            "unitPrice": 97,
+            "unitInStock": 95
+        },
+        {
+            "id": 33,
+            "categoryId": 2,
+            "productName": "Lamb Rack - Ontario",
+            "quantityPerUnit": "Construction/Ag Equipment/Trucks",
+            "unitPrice": 11,
+            "unitInStock": 91
+        },
+        {
+            "id": 34,
+            "categoryId": 6,
+            "productName": "Nut - Hazelnut, Whole",
+            "quantityPerUnit": "Food Distributors",
+            "unitPrice": 52,
+            "unitInStock": 12
+        },
+        {
+            "id": 35,
+            "categoryId": 1,
+            "productName": "Wine - Magnotta - Cab Sauv",
+            "quantityPerUnit": "n/a",
+            "unitPrice": 10,
+            "unitInStock": 35
+        },
+        {
+            "id": 36,
+            "categoryId": 2,
+            "productName": "Veal - Eye Of Round",
+            "quantityPerUnit": "n/a",
+            "unitPrice": 94,
+            "unitInStock": 23
+        },
+        {
+            "id": 37,
+            "categoryId": 2,
+            "productName": "Pumpkin - Seed",
+            "quantityPerUnit": "Precious Metals",
+            "unitPrice": 33,
+            "unitInStock": 100
+        },
+        {
+            "id": 38,
+            "categoryId": 9,
+            "productName": "Red Currants",
+            "quantityPerUnit": "Restaurants",
+            "unitPrice": 16,
+            "unitInStock": 19
+        },
+        {
+            "id": 39,
+            "categoryId": 5,
+            "productName": "Oil - Hazelnut",
+            "quantityPerUnit": "Natural Gas Distribution",
+            "unitPrice": 58,
+            "unitInStock": 87
+        },
+        {
+            "id": 40,
+            "categoryId": 8,
+            "productName": "Scotch - Queen Anne",
+            "quantityPerUnit": "Oilfield Services/Equipment",
+            "unitPrice": 22,
+            "unitInStock": 42
+        },
+        {
+            "id": 41,
+            "categoryId": 1,
+            "productName": "Huck White Towels",
+            "quantityPerUnit": "Broadcasting",
+            "unitPrice": 88,
+            "unitInStock": 50
+        },
+        {
+            "id": 42,
+            "categoryId": 10,
+            "productName": "Beer - Rickards Red",
+            "quantityPerUnit": "Department/Specialty Retail Stores",
+            "unitPrice": 99,
+            "unitInStock": 26
+        },
+        {
+            "id": 43,
+            "categoryId": 2,
+            "productName": "Everfresh Products",
+            "quantityPerUnit": "Building operators",
+            "unitPrice": 89,
+            "unitInStock": 76
+        },
+        {
+            "id": 44,
+            "categoryId": 6,
+            "productName": "Table Cloth 90x90 Colour",
+            "quantityPerUnit": "Industrial Machinery/Components",
+            "unitPrice": 2,
+            "unitInStock": 32
+        },
+        {
+            "id": 45,
+            "categoryId": 7,
+            "productName": "Salmon - Atlantic, Skin On",
+            "quantityPerUnit": "Catalog/Specialty Distribution",
+            "unitPrice": 74,
+            "unitInStock": 32
+        },
+        {
+            "id": 46,
+            "categoryId": 2,
+            "productName": "Vinegar - Tarragon",
+            "quantityPerUnit": "Major Pharmaceuticals",
+            "unitPrice": 20,
+            "unitInStock": 74
+        },
+        {
+            "id": 47,
+            "categoryId": 7,
+            "productName": "Beef - Prime Rib Aaa",
+            "quantityPerUnit": "Building operators",
+            "unitPrice": 83,
+            "unitInStock": 96
+        },
+        {
+            "id": 48,
+            "categoryId": 3,
+            "productName": "Fiddlehead - Frozen",
+            "quantityPerUnit": "Property-Casualty Insurers",
+            "unitPrice": 31,
+            "unitInStock": 13
+        },
+        {
+            "id": 49,
+            "categoryId": 8,
+            "productName": "Wine - Penfolds Koonuga Hill",
+            "quantityPerUnit": "Professional Services",
+            "unitPrice": 87,
+            "unitInStock": 60
+        },
+        {
+            "id": 50,
+            "categoryId": 2,
+            "productName": "Beef - Ox Tongue, Pickled",
+            "quantityPerUnit": "Property-Casualty Insurers",
+            "unitPrice": 96,
+            "unitInStock": 15
+        },
+        {
+            "id": 51,
+            "categoryId": 6,
+            "productName": "Sauce - Caesar Dressing",
+            "quantityPerUnit": "Oil & Gas Production",
+            "unitPrice": 85,
+            "unitInStock": 79
+        },
+        {
+            "id": 52,
+            "categoryId": 6,
+            "productName": "Cheese - Stilton",
+            "quantityPerUnit": "Building Materials",
+            "unitPrice": 99,
+            "unitInStock": 91
+        },
+        {
+            "id": 53,
+            "categoryId": 1,
+            "productName": "Onions Granulated",
+            "quantityPerUnit": "Biotechnology: Electromedical & Electrotherapeutic Apparatus",
+            "unitPrice": 81,
+            "unitInStock": 96
+        },
+        {
+            "id": 54,
+            "categoryId": 3,
+            "productName": "Breakfast Quesadillas",
+            "quantityPerUnit": "Specialty Chemicals",
+            "unitPrice": 65,
+            "unitInStock": 27
+        },
+        {
+            "id": 55,
+            "categoryId": 2,
+            "productName": "Beef - Baby, Liver",
+            "quantityPerUnit": "Commercial Banks",
+            "unitPrice": 42,
+            "unitInStock": 28
+        },
+        {
+            "id": 56,
+            "categoryId": 1,
+            "productName": "Table Cloth 81x81 White",
+            "quantityPerUnit": "Real Estate Investment Trusts",
+            "unitPrice": 73,
+            "unitInStock": 17
+        },
+        {
+            "id": 57,
+            "categoryId": 8,
+            "productName": "Cookies - Oreo, 4 Pack",
+            "quantityPerUnit": "Computer peripheral equipment",
+            "unitPrice": 27,
+            "unitInStock": 83
+        },
+        {
+            "id": 58,
+            "categoryId": 8,
+            "productName": "Nut - Almond, Blanched, Sliced",
+            "quantityPerUnit": "n/a",
+            "unitPrice": 54,
+            "unitInStock": 52
+        },
+        {
+            "id": 59,
+            "categoryId": 4,
+            "productName": "Dried Figs",
+            "quantityPerUnit": "Electric Utilities: Central",
+            "unitPrice": 5,
+            "unitInStock": 80
+        },
+        {
+            "id": 60,
+            "categoryId": 6,
+            "productName": "Oil - Canola",
+            "quantityPerUnit": "Major Banks",
+            "unitPrice": 38,
+            "unitInStock": 42
+        },
+        {
+            "id": 61,
+            "categoryId": 10,
+            "productName": "Pie Filling - Pumpkin",
+            "quantityPerUnit": "Aerospace",
+            "unitPrice": 81,
+            "unitInStock": 15
+        },
+        {
+            "id": 62,
+            "categoryId": 6,
+            "productName": "Pate - Liver",
+            "quantityPerUnit": "Marine Transportation",
+            "unitPrice": 17,
+            "unitInStock": 78
+        },
+        {
+            "id": 63,
+            "categoryId": 9,
+            "productName": "Squid - Tubes / Tenticles 10/20",
+            "quantityPerUnit": "Radio And Television Broadcasting And Communications Equipment",
+            "unitPrice": 77,
+            "unitInStock": 25
+        },
+        {
+            "id": 64,
+            "categoryId": 8,
+            "productName": "Ginger - Ground",
+            "quantityPerUnit": "Semiconductors",
+            "unitPrice": 99,
+            "unitInStock": 55
+        },
+        {
+            "id": 65,
+            "categoryId": 1,
+            "productName": "Nantucket - Carrot Orange",
+            "quantityPerUnit": "Major Banks",
+            "unitPrice": 75,
+            "unitInStock": 52
+        },
+        {
+            "id": 66,
+            "categoryId": 5,
+            "productName": "Wine - Shiraz Wolf Blass Premium",
+            "quantityPerUnit": "Business Services",
+            "unitPrice": 85,
+            "unitInStock": 14
+        },
+        {
+            "id": 67,
+            "categoryId": 2,
+            "productName": "Chicken - Base",
+            "quantityPerUnit": "Life Insurance",
+            "unitPrice": 8,
+            "unitInStock": 26
+        },
+        {
+            "id": 68,
+            "categoryId": 2,
+            "productName": "Bread - Roll, Calabrese",
+            "quantityPerUnit": "n/a",
+            "unitPrice": 34,
+            "unitInStock": 42
+        },
+        {
+            "id": 69,
+            "categoryId": 3,
+            "productName": "Kellogs Raisan Bran Bars",
+            "quantityPerUnit": "Major Banks",
+            "unitPrice": 81,
+            "unitInStock": 75
+        },
+        {
+            "id": 70,
+            "categoryId": 3,
+            "productName": "Evaporated Milk - Skim",
+            "quantityPerUnit": "Marine Transportation",
+            "unitPrice": 95,
+            "unitInStock": 30
+        },
+        {
+            "id": 71,
+            "categoryId": 4,
+            "productName": "Chips Potato Reg 43g",
+            "quantityPerUnit": "Radio And Television Broadcasting And Communications Equipment",
+            "unitPrice": 10,
+            "unitInStock": 59
+        },
+        {
+            "id": 72,
+            "categoryId": 3,
+            "productName": "Nut - Hazelnut, Ground, Natural",
+            "quantityPerUnit": "Farming/Seeds/Milling",
+            "unitPrice": 51,
+            "unitInStock": 41
+        },
+        {
+            "id": 73,
+            "categoryId": 8,
+            "productName": "Ham - Proscuitto",
+            "quantityPerUnit": "Semiconductors",
+            "unitPrice": 3,
+            "unitInStock": 52
+        },
+        {
+            "id": 74,
+            "categoryId": 6,
+            "productName": "Nestea - Ice Tea, Diet",
+            "quantityPerUnit": "Semiconductors",
+            "unitPrice": 98,
+            "unitInStock": 81
+        },
+        {
+            "id": 75,
+            "categoryId": 6,
+            "productName": "Chinese Foods - Chicken",
+            "quantityPerUnit": "Electronic Components",
+            "unitPrice": 48,
+            "unitInStock": 86
+        },
+        {
+            "id": 76,
+            "categoryId": 1,
+            "productName": "Shrimp - 16/20, Iqf, Shell On",
+            "quantityPerUnit": "Property-Casualty Insurers",
+            "unitPrice": 93,
+            "unitInStock": 22
+        },
+        {
+            "id": 77,
+            "categoryId": 7,
+            "productName": "Kumquat",
+            "quantityPerUnit": "n/a",
+            "unitPrice": 68,
+            "unitInStock": 92
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "categoryName": "Beverages",
+            "seoUrl": "beverages"
+        },
+        {
+            "id": 2,
+            "categoryName": "Condiments",
+            "seoUrl": "condiments"
+        },
+        {
+            "id": 3,
+            "categoryName": "Confections",
+            "seoUrl": "confections"
+        },
+        {
+            "id": 4,
+            "categoryName": "Dairy Products",
+            "seoUrl": "dairy-products"
+        },
+        {
+            "id": 5,
+            "categoryName": "Grains/Cereals",
+            "seoUrl": "grains-cereals"
+        },
+        {
+            "id": 6,
+            "categoryName": "Meat/Poultry",
+            "seoUrl": "Meat-Poultry"
+        },
+        {
+            "id": 7,
+            "categoryName": "Produce",
+            "seoUrl": "produce"
+        },
+        {
+            "id": 8,
+            "categoryName": "Seafood",
+            "seoUrl": "seafood"
+        }
+    ]
+}
