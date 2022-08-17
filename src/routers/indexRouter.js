@@ -4,23 +4,24 @@ const { Router } = express;
 const router = express.Router();
 
 router.get("/products", (req, res) => {
-  let rawData = fs.readFile("./db.json", "utf-8", (err, jsonString) => {
-    if (err) {
-      console.log(err);
-    } else {
-      res.send(JSON.parse(jsonString).products);
+  const paramCategory = req.query.categoryId;
+
+  fs.readFile("./db.json", "utf-8", (err, jsonString) => {
+    var result = JSON.parse(jsonString).products;
+    if (paramCategory) {
+      result = result.filter((x) => x.categoryId == paramCategory);
     }
+    res.send(result);
   });
 });
 
 router.get("/categories", (req, res) => {
-  let rawData = fs.readFile("./db.json", "utf-8", (err, jsonString) => {
+  fs.readFile("./db.json", "utf-8", (err, jsonString) => {
     if (err) {
       console.log(err);
     } else {
       res.send(JSON.parse(jsonString).categories);
     }
-  });
-});
+  });});
 
 module.exports = router;
